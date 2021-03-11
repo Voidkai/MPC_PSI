@@ -4,7 +4,7 @@
 
 ## Oblivious Transfer
 
-## Garbled Circuit
+## [Garbled Circuit](./Readme/GC)
 
 ## [Reference Materials](./Readme/Reference)
 
