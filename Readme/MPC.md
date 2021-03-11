@@ -24,5 +24,5 @@ MPC's Protocols:
 
 1. Yao's GC
 2. Goldreich-Micali-Wigderson(GMW) Protocol
-3. BGM protocol: Based on Shamir secret sharing.
-4. Constant-Round Multi-Party Computation: BMR.
+3. BGM protocol: Based on Shamir secret sharing
+4. Constant-Round Multi-Party Computation: BMR
