@@ -2,7 +2,7 @@
 
 ## [Simple introduction of MPC](./Readme/MPC)
 
-## Oblivious Transfer
+## [Oblivious Transfer](./Readme/OT)
 
 ## [Garbled Circuit](./Readme/GC)
 
