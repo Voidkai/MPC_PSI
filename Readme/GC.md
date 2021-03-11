@@ -1,8 +1,6 @@
 # GC
 
-GC means Garbled Circuit
-
-
+GC means Garbled Circuit.
 
 ## Garbled circuits Scheme
 
